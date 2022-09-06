@@ -6,8 +6,8 @@ Exemple:
 ### [Bulle](https://www.onf.ca/interactif/bulle/) 
 L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui porte un message fort. En effet, elle tente de nous sensibiliser aux enjeux climatiques. Prendre position et défendre des valeurs par l'art est l'un des aspects du multimédia qui m'intéresse beaucoup. 
 
-### [My Beautiful Dark Twisted fantasy](https://pitchfork.com/reviews/albums/14880-my-beautiful-dark-twisted-fantasy/)
-Expliquer pourquoi vous avez choisi ce lien. 
+### [My Beautiful Dark Twisted Fantasy](https://pitchfork.com/reviews/albums/14880-my-beautiful-dark-twisted-fantasy/)
+Le 5iem album de Kanye West, est l'un des meilleurs et le plus revolutionnaire de cette generation. La couverture de l'album symbolise comment nous percevons la beaute
 
 ### [Arcsys](https://arcsystemworks.com/)
 Expliquer pourquoi vous avez choisi ce lien.
