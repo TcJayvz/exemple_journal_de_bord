@@ -7,6 +7,7 @@
 
 ### Points à améliorer
 Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
-1. Meilleur clarité lors de mon oral
+1. Meilleur clarité lors de mon orale 
+2. Je dois mieux gérer mon temps pendant que je parle, car j'ai tendance a parler vite.
 ### Présentation préférée
 Quelle présentation avez-vous préféré et pourquoi? 
