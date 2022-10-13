@@ -9,12 +9,12 @@ Le shooter reste tout de même diablement accrocheur, avec des phases de jeu ré
 ### Description
 Décrivez l'oeuvre. Quelles étaient les composantes de l'installation? Comment était-elle réalisée techniquement? 
 
-
+Overwatch a été développé avec une demi-douzaine de fonctionnalités pour attirer un public plus large, y compris une fonctionnalité d'accessibilité pour les personnes daltoniennes. Pendant le développement, un objectif important était d'avoir une "clarté de combat" pour le joueur, de sorte que lorsqu'un joueur se déplaçait dans une nouvelle zone, les personnages ennemis soient clairement visibles.
 
 ### Opinion
 Donnez votre opinion sur l'oeuvre que nous avons visitée. Vous a-t-elle plu? Ou pas du tout? Pourquoi? Est-ce que certains aspects vous ont plus touchés que d'autres?
 
-Moi personnellement, j'aime bien le jeu, car chaque hero est unique et a son propre habileter. On peut jouer autant que **Tank**, la personne va proteger l'equipe mais peut faire du dommage aussi, ensuite les **DPS**, ils vont vaire du dommage et les **Support**, eux ils vont soigner les *tank* et les *DPS*. Chaque joueur peut trouver son style de jeux avec tous ces personnages diversifier. 
+Moi personnellement, j'aime bien le jeu, car chaque héro est unique et a sa propre habileté. On peut jouer autant que **Tank**, la personne va protéger l'équipe mais peut faire du dommage aussi, ensuite les **DPS**, ils vont faire du dommage et les **Support**, eux ils vont soigner les *tank* et les *DPS*. Chaque joueur peut trouver son style de jeux avec tous ces personnages diversifier.
 
 ### Analyse critique
 Qu'est-ce qui pourrait être modifié dans cette oeuvre? 
