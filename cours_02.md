@@ -19,5 +19,5 @@ Electronics Art l'une des companies le plus connue pour avoir fait des jeux de s
 Baby Keem un rapport exceptionnel de notre generation, son clip musical est l'une des meilleur clip de l'annee 2021. La cinematographie est fantastique, les premiere minute, il utilise plusieurs video dans une scene, par la suite l'utilisation de la palette de couleur beige-brun avec les balerine habille en noir est un bon contraste. Ensuite la deuxieme partie du clip devient plus dynamique avec la presence de Kendrick Lamar.
 
 ### [Better Call Saul](https://www.imdb.com/title/tt3032476/)
-Better Call Saul, une serie 
+Better Call Saul, un spin-off de la série "Breaking Bad" suit la vie de Jimmy McGill avant qu'il ne prenne le pseudonyme de Saul Goodman et devienne l'avocat véreux de Walter White. Aussi connue pour sa cinematographie exceptionnel avec sa simplicite, sa composition et l'eclairage.
 
